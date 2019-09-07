@@ -2,3 +2,4 @@ test1
 Dev test1
 master write test2
 master change dev write test2
+dev write test2

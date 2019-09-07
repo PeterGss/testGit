@@ -3,3 +3,5 @@ Dev test1
 master write test2
 master change dev write test2
 dev write test2
+master write 111
+master write 222
